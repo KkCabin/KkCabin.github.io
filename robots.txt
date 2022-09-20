@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kkCabin.github.io/sitemap.xml
